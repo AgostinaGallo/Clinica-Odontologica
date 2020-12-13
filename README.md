@@ -8,3 +8,5 @@ Administration system for dental clinic, with management of users, secretaries, 
 ## UML Diagrama / UML Diagram 
 ![UML_ClinicaOdonto_Agos](https://user-images.githubusercontent.com/49412718/102002871-a8111f00-3cdf-11eb-8dd7-38c34c7b6ae9.png)
 
+## Video de Demostración / Preview Video
+https://drive.google.com/file/d/1QDe8cs62tQ9dp2hvJcGbRJy8NbMGJx6c/view?usp=sharing
