@@ -4,6 +4,7 @@ Aplicación Web de Escritorio, realizada en Java.  Sistema de administración pa
 Desktop Web Application, made in Java.
 Administration system for dental clinic, with management of users, secretaries, doctors, patients and attention appointments. Welcome section and company information, logins and records and main administration section and its subsections with their respective lists and views for creation, editing, etc.
 
-UML Diagrama (Lenguaje de Modelado Unificado) 
-UML Diagram (Unified Modeling Language)
-https://github.com/AgostinaGallo/Clinica-Odontologica/issues/1#issue-764895541
+## UML Diagrama (Lenguaje de Modelado Unificado) 
+## UML Diagram (Unified Modeling Language)
+![UML_ClinicaOdonto_Agos](https://user-images.githubusercontent.com/49412718/102002871-a8111f00-3cdf-11eb-8dd7-38c34c7b6ae9.png)
+
