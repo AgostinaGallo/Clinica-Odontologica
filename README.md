@@ -6,4 +6,4 @@ Administration system for dental clinic, with management of users, secretaries, 
 
 UML Diagrama (Lenguaje de Modelado Unificado) 
 UML Diagram (Unified Modeling Language)
-https://user-images.githubusercontent.com/49412718/102002818-01c51980-3cdf-11eb-9383-e3903f6f317d.png
+https://github.com/AgostinaGallo/Clinica-Odontologica/issues/1#issue-764895541
