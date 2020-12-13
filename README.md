@@ -3,3 +3,7 @@ Aplicación Web de Escritorio, realizada en Java.  Sistema de administración pa
 
 Desktop Web Application, made in Java.
 Administration system for dental clinic, with management of users, secretaries, doctors, patients and attention appointments. Welcome section and company information, logins and records and main administration section and its subsections with their respective lists and views for creation, editing, etc.
+
+UML Diagrama (Lenguaje de Modelado Unificado) 
+UML Diagram (Unified Modeling Language)
+https://user-images.githubusercontent.com/49412718/102002818-01c51980-3cdf-11eb-9383-e3903f6f317d.png
